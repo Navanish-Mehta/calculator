@@ -1,1 +1,1 @@
-# calculator
+It is a regularly used calculator webpage for doing all arithematic operations.i have made it according to our basic needs.if you like it please leave a comment.I am student seeking for job .if you have any kind of job available contact me on 6207746066 or dadanmehta097@gmail.com
